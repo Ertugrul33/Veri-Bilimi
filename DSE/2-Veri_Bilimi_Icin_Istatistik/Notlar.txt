@@ -1,2 +1,0 @@
-- Küçük veriler için kök(n) ile de grup sayısını belirleyebiliriz. (n: veri sayısı)
-- Göreli frekans, aynı zamanda olasılığı verir. (Örnek: Bir öğrencinin hemşirelik bölümünde olması olasılığı)
