@@ -1,0 +1,10 @@
+Herkese merhabalar,
+Sizlere hazırlamış olduğum "Hipotez Testi" diyagramını paylaşmak istiyorum.
+
+"HT Journey" isminde Samet Karasu ile yapacağımız projenin ilk hazırlığı için bu diyagramı çizmiş bulunmaktayım. 
+Python ile yapacağımız bu proje, hipotez testi yapmak isteyenler için bir yol haritası niteliğinde olacak ve ulaştığı test 
+için değerleri girerek hipotezin kabul veya red olduğu bilgisini ekranda gösterecek.
+Bu diyagramı da genel olarak kullanmak isteyenler için paylaşmak istedim.
+Diyagramda eksik veya eklenmesi gereken yerler varsa belirtirseniz çok sevinirim.
+
+#hipoteztesti #hypothesistesting #datascience #veribilimi #yapayzeka #ai
